@@ -1,0 +1,3 @@
+We are inserting information into the gitfile3.txt to show what devops can do.
+
+It is a good one.
